@@ -1,3 +1,9 @@
+.flex{
+  background-color: black;
+
+  height: 500px;
+}
+
 .App {
   text-align: center;
 }
